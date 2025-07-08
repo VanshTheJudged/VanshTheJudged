@@ -7,6 +7,9 @@ Currently pursuing a B.Tech in Information Technology at Delhi Technological Uni
 
 ---
 
+![Me vs Bugs](https://yourcdn.com/fight-demo.gif)
+
+
 ## 🧰 My Tech Stack
 
 **Frontend:** HTML5, CSS3, JavaScript, React, jQuery  
