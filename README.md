@@ -7,8 +7,7 @@ Currently pursuing a B.Tech in Information Technology at Delhi Technological Uni
 
 ---
 
-![Me vs Bugs](https://yourcdn.com/fight-demo.gif)
-
+[![Pixel Robot Wars Demo](https://img.youtube.com/vi/XS8lrYA30L4/hqdefault.jpg)](https://www.youtube.com/watch?v=XS8lrYA30L4)
 
 ## 🧰 My Tech Stack
 
