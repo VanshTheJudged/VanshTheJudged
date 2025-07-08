@@ -7,7 +7,9 @@ Currently pursuing a B.Tech in Information Technology at Delhi Technological Uni
 
 ---
 
-![Tired coder](./Mercenary%20Garage%20Blog%20Custom%20Motorcycle%20Design%20Kirokaze%20Tired%20Now%208%20Bit%20Anime%20Cyberpunk%20GIF.gif)
+<p align="center">
+  <img src="./Mercenary%20Garage%20Blog%20Custom%20Motorcycle%20Design%20Kirokaze%20Tired%20Now%208%20Bit%20Anime%20Cyberpunk%20GIF.gif" style="width: 100%;" />
+</p>
 
 ## 🧰 My Tech Stack
 
