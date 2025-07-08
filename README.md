@@ -7,7 +7,7 @@ Currently pursuing a B.Tech in Information Technology at Delhi Technological Uni
 
 ---
 
-[![Pixel Robot Wars Demo](https://img.youtube.com/vi/XS8lrYA30L4/hqdefault.jpg)](https://www.youtube.com/watch?v=XS8lrYA30L4)
+![Tired coder](./Mercenary%20Garage%20Blog%20Custom%20Motorcycle%20Design%20Kirokaze%20Tired%20Now%208%20Bit%20Anime%20Cyberpunk%20GIF.gif)
 
 ## 🧰 My Tech Stack
 
