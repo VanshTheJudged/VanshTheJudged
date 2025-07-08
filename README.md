@@ -1,17 +1,43 @@
-# 👋 Hi, I'm Vansh
+# Hi there, I'm Vansh! 👋
 
-🎓 B.Tech IT student @ DTU  
-💻 Backend Developer | Node.js | MongoDB  
-🚀 Building cool things like [DeadDrop](https://github.com/VanshTheJudged) & [Confessly](https://github.com/VanshTheJudged)
+## About Me
 
-## 🛠️ Tech Stack
-- Backend: Node.js, Express, MongoDB
-- Frontend: React.js, HTML, CSS
-- Tools: Git, GitHub, Postman
+I'm Vansh, a backend-focused developer passionate about solving real-world problems through scalable, efficient systems.  
+Currently pursuing a B.Tech in Information Technology at Delhi Technological University (DTU), I'm deeply interested in building secure APIs, automation tools, and server-side logic that power modern applications.
+
+---
+
+## 🧰 My Tech Stack
+
+**Frontend:** HTML5, CSS3, JavaScript, React, jQuery  
+**Backend:** Node.js, Express.js, MongoDB, MySQL  
+**DevOps & Tools:** Git, GitHub, Postman, Redis  
+**Other Interests:** Creating backend architectures, system design, open-source contribution
+
+---
+
+## 🛠️ Technologies and Tools  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+---
 
 ## 📈 GitHub Stats
-![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanshTheJudged&show_icons=true&theme=radical)
 
-## 📫 Connect with me
-- [LinkedIn](https://linkedin.com/in/vansh-kumar-a8a196307)
-- [Codolio](https://codolio.com/profile/VanshTheJudged)
+![Vansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VanshTheJudged&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshTheJudged&layout=compact&theme=tokyonight)
+
+---
+
+Thanks for stopping by! Let’s connect on [LinkedIn](https://www.linkedin.com/in/vansh-kumar-a8a196307).
