@@ -38,9 +38,6 @@ Currently pursuing a B.Tech in Information Technology at Delhi Technological Uni
 ---
 
 ## 📈 GitHub Stats
-
-![Vansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VanshTheJudged&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshTheJudged&layout=compact&theme=tokyonight)
 <div align="center" style="display: flex; flex-direction: column; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=VanshTheJudged&show_icons=true&theme=tokyonight" style="width: 100%;" />
   <br/>
