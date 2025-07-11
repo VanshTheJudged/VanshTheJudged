@@ -44,10 +44,11 @@ Currently pursuing a B.Tech in Information Technology at Delhi Technological Uni
       <img src="https://github-readme-stats.vercel.app/api?username=VanshTheJudged&show_icons=true&theme=tokyonight&card_width=600" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshTheJudged&layout=compact&theme=tokyonight&card_width=600&langs_count=6" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshTheJudged&layout=compact&theme=tokyonight&card_width=600&langs_count=10" />
     </td>
   </tr>
 </table>
+
 ---
 
 Thanks for stopping by! Let’s connect on [LinkedIn](https://www.linkedin.com/in/vansh-kumar-a8a196307).
