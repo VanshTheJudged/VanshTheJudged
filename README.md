@@ -53,7 +53,7 @@ Currently pursuing a B.Tech in Information Technology at Delhi Technological Uni
       <table>
         <tr>
           <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshTheJudged&layout=compact&theme=tokyonight&card_width=450&langs_count=30" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshTheJudged&layout=compact&theme=tokyonight&card_width=450&langs_count=100" />
           </td>
         </tr>
       </table>
